@@ -102,3 +102,37 @@ npx playwright test
 - `src/lib`: Utility functions and configurations (Stripe, Prisma).
 - `prisma`: Database schema and seed scripts.
 - `e2e`: Playwright end-to-end tests.
+
+  ## ✨ Features
+
+- **Storefront:** Browse products by category (Cakes, Cupcakes, Cookies, Desserts).
+- **Product Details:** View high-quality images, descriptions, and pricing.
+- **Shopping Cart:** Add items, adjust quantities, and view total.
+- **Checkout:** Secure payment processing via Stripe.
+- **Admin Dashboard:** Manage products and view orders (accessible at `/admin`).
+- **Responsive Design:** Optimized for mobile, tablet, and desktop.
+
+## 📂 Project Structure
+
+- `src/app`: Next.js App Router pages and layouts.
+- `src/components`: Reusable UI components (Header, Footer, etc.).
+- `src/lib`: Utility functions and configurations (Stripe, Prisma).
+- `prisma`: Database schema and seed scripts.
+- `e2e`: Playwright end-to-end tests.
+
+## ✨ Features
+
+- **Storefront:** Browse products by category (Cakes, Cupcakes, Cookies, Desserts).
+- **Product Details:** View high-quality images, descriptions, and pricing.
+- **Shopping Cart:** Add items, adjust quantities, and view total.
+- **Checkout:** Secure payment processing via Stripe.
+- **Admin Dashboard:** Manage products and view orders (accessible at `/admin`).
+- **Responsive Design:** Optimized for mobile, tablet, and desktop.
+
+## 📂 Project Structure
+
+- `src/app`: Next.js App Router pages and layouts.
+- `src/components`: Reusable UI components (Header, Footer, etc.).
+- `src/lib`: Utility functions and configurations (Stripe, Prisma).
+- `prisma`: Database schema and seed scripts.
+- `e2e`: Playwright end-to-end tests.
